@@ -1,0 +1,16 @@
+# plotting
+seaborn
+
+# open tools
+mne
+
+# OpenBCI
+
+# fun topics
+# neurotech
+# enigma-toolbox # neurogenetics stuff
+
+# presentation tools
+jupyterlab
+rise
+
