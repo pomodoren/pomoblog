@@ -1,10 +1,14 @@
 # plotting
 seaborn
 
-# open tools
+# neuroimaging
+nilearn
+
+# electrophysiology
 mne
 
-# OpenBCI
+# data science
+scikit-learn
 
 # fun topics
 # neurotech
