@@ -1,6 +1,7 @@
 data/
 presentation/
 style/
+next/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
