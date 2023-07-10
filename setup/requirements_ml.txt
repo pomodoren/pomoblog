@@ -1,0 +1,22 @@
+# plotting
+seaborn
+flask
+
+# data science
+scikit-learn
+statsmodels
+keras
+tensorflow
+spacy
+
+# fun topics
+# neurotech
+# enigma-toolbox # neurogenetics stuff
+
+# presentation tools
+jupyterlab
+rise
+
+# explainability
+shap
+opencv-python
