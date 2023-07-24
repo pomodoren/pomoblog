@@ -1,7 +1,9 @@
-data/
+cache/
 presentation/
 style/
 next/
+tests/
+transport-notes/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

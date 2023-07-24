@@ -1,0 +1,24 @@
+# presentation
+jupyterlab
+rise
+
+# plotting
+matplotlib
+
+# stats
+osmnx
+pandas
+geopandas
+movingpandas
+pyrosm
+numpy<1.24
+shapely<2.0
+
+openrouteservice
+rasterio
+rasterstats
+
+seaborn
+folium
+matplotlib
+mapclassify
