@@ -4,6 +4,8 @@ style/
 next/
 tests/
 transport-notes/
+venv-emergency/
+data/fires/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
