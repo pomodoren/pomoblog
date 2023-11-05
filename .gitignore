@@ -4,7 +4,9 @@ style/
 next/
 tests/
 transport-notes/
+venv/
 venv-emergency/
+venv-OSINT/
 data/fires/
 notes/
 
