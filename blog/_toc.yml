@@ -1,0 +1,35 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+
+- caption: Introduction & Overview
+  chapters:
+  - title: About the Author
+    url: http://me.md
+  - title: Table of Contents
+    url: http://sdsdsda.ds
+
+
+- caption: Neuroscience Soup
+  chapters:
+
+  - title: Random bits
+    file: content/neuro/introductory.md
+  - title: Example code
+    file: 'content/neuro/2023-01-17-neuro-The Spongy Brain.ipynb'
+  
+- caption: Transport Soup
+  chapters:
+  - title: Mobility through OSS
+    file: "content/geospatial/2023-08-03-transport-OSS and Mobility.ipynb"
+  - title: Resilience through OSS
+    file: "content/geospatial/2023-09-03-risk-OSCAL.ipynb"
+
+
+- caption: Appendices
+  chapters:
+  - title: Bibliography
+    url: http://sdsad.dsds
